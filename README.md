@@ -1,5 +1,7 @@
 # pengalaman-belajar
 
 Pengalaman Belajar di Dicoding
-23 nov 2026
-- belajar dasar git dengan github
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
